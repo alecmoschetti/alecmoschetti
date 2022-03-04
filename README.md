@@ -13,10 +13,11 @@
 
 ## Appendix  🌎
 
-* [projects][projects reference]
+* [projects showcase][projects reference]
 * [relevant skills][skills]
 * [current and completed tasks][todos]
 * [about me user guide][userguide]
+* [repositories][repositories]
 
 ---
 
@@ -60,6 +61,7 @@
 [skills]: https://github.com/alecmoschetti#skills
 [todos]: https://github.com/alecmoschetti#to-dos--
 [userguide]: https://github.com/alecmoschetti#user-guide
+[repositories]: https://github.com/alecmoschetti?tab=repositories
 
 [codewars directory]: https://github.com/alecmoschetti/codewars
 
