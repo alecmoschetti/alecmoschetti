@@ -1,5 +1,8 @@
 # 🚧 👷‍♂️ README is under **construction** 🛠️
-# 🪀 I'm Alec Moschetti and I'm a student *Full Stack Web Developer*.
+# 🪀 Hey, I'm Alec and I'm:
+  * studying to be a *Full Stack Web Developer*.
+  * working full time in manufacturing.
+  * passionate about probem-solving, programming, design, and music.
 > _Sometimes_ I use internet only pseudonyms as `@alekseisweet` or `@uhhuhokay` to retain <strong><em>playful anonymity</em></strong> attached to personal projects or even for my own personal domain.
 
 <div align="center" >
