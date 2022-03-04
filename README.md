@@ -55,7 +55,7 @@
 
 [projects reference]: https://github.com/alecmoschetti#project-directory
 [skills]: https://github.com/alecmoschetti#skills
-[todos]: https://github.com/alecmoschetti#to-dos
+[todos]: https://github.com/alecmoschetti#to-dos--
 [userguide]: https://github.com/alecmoschetti#user-guide
 
 [codewars directory]: https://github.com/alecmoschetti/codewars
