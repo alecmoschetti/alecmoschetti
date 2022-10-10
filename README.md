@@ -1,9 +1,11 @@
-# 🪀 Hey, I'm Alec and I'm:
-  * passionate about probem-solving
+# 🪀 Hey, I'm Alec
+> _Sometimes_ I use `@uhhuhokay` attached to personal projects
+## I'm passionate about:
+  * probem-solving
   * programming
   * design
   * music
-> _Sometimes_ I use `@uhhuhokay` attached to personal projects
+
 
 <div align="center" >
    <img width="300" height="200" src="https://media2.giphy.com/media/hlQeY3PbhH3i/giphy.gif?cid=ecf05e47bv54uude3c0yoxev3vx6g2kh3sbttthogjqfu8qd&rid=giphy.gif&ct=g" />
@@ -25,11 +27,11 @@
 ### Project directory
 
 #### individual projects:
-* [daykeeper (todo app)][daykeeper github]
-* [wizards only (private message board)][wizardsonly github]
-* [aleksei's chat room][messageboard github]
-* [calculator][calculator github]
-* [community garden (page routing / shopping cart)][communitygarden github]
+* daykeeper (todo app) - [code][daykeeper github] | [live][daykeeper live]
+* calculator - [code][calculator github] | [live][calculator live]
+* community garden (page routing / shopping cart) - [code][communitygarden github] | [live][communitygarden live]
+* aleksei's chat room - [code][messageboard github]
+* wizards only (private message board) [code][wizardsonly github]
 
 #### project directories:
 * [codewars][codewars directory]
@@ -55,7 +57,10 @@
 [codewars directory]: https://github.com/alecmoschetti/codewars
 
 [daykeeper github]: https://github.com/alecmoschetti/daykeeper
+[daykeeper live]: https://alecmoschetti.github.io/daykeeper/
 [wizardsonly github]: https://github.com/alecmoschetti/wizard
 [messageboard github]: https://github.com/alecmoschetti/alekseismessageboard
 [calculator github]: https://github.com/alecmoschetti/calculator
+[calculator live]: https://alecmoschetti.github.io/calculator/
 [communitygarden github]: https://github.com/alecmoschetti/communitygarden
+[communitygarden live]: https://communitytoolshed.onrender.com/
