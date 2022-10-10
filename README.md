@@ -1,5 +1,8 @@
 # 🪀 Hey, I'm Alec and I'm:
-  * passionate about probem-solving, programming, design, and music.
+  * passionate about probem-solving
+  * programming
+  * design
+  * music
 > _Sometimes_ I use `@uhhuhokay` attached to personal projects
 
 <div align="center" >
