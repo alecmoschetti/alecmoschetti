@@ -33,12 +33,6 @@
 
 #### project directories:
 * [codewars][codewars directory]
-* [odinproject][]
-* [treehouse][]
-
----
-
-### Skills
 
 ---
 
