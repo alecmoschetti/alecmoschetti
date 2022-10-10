@@ -1,9 +1,6 @@
-# 🚧 👷‍♂️ README is under **construction** 🛠️
 # 🪀 Hey, I'm Alec and I'm:
-  * studying to be a *Full Stack Web Developer*.
-  * working full time in manufacturing.
   * passionate about probem-solving, programming, design, and music.
-> _Sometimes_ I use internet only pseudonyms as `@alekseisweet` or `@uhhuhokay` to retain <strong><em>playful anonymity</em></strong> attached to personal projects or even for my own personal domain.
+> _Sometimes_ I use `@uhhuhokay` attached to personal projects
 
 <div align="center" >
    <img width="300" height="200" src="https://media2.giphy.com/media/hlQeY3PbhH3i/giphy.gif?cid=ecf05e47bv54uude3c0yoxev3vx6g2kh3sbttthogjqfu8qd&rid=giphy.gif&ct=g" />
@@ -46,17 +43,11 @@
 
 #### Active  🌱
 - [ ] Deploy personal website
-- [ ] Finish battleship project
-- [ ] Finish blog project
-- [ ] Organize projects into larger repositories (ex: all odin projects into an odin project repository)
 - [ ] Add ReadMe.mds to all / desired projects
 
 #### Completed  🌿
 - [x] Upload js codewars katas
-
----
-
-### User guide
+- [x] Upload rust codewars katas
 
 [projects reference]: https://github.com/alecmoschetti#project-directory
 [skills]: https://github.com/alecmoschetti#skills
