@@ -1,15 +1,7 @@
 # 🪀 Hey, I'm Alec
-> _Sometimes_ I use `@uhhuhokay` attached to personal projects
-## I'm passionate about:
-  * probem-solving
-  * programming
-  * design
-  * music
-
 
 <div align="center" >
    <img width="300" height="200" src="https://media2.giphy.com/media/hlQeY3PbhH3i/giphy.gif?cid=ecf05e47bv54uude3c0yoxev3vx6g2kh3sbttthogjqfu8qd&rid=giphy.gif&ct=g" />
-  <img width="300" height="200" src="https://media4.giphy.com/media/3o7TKGOhl6hVAxkvMQ/giphy.gif?cid=ecf05e472fg7yx4qpprds6btaadg2dhdy8wiw367g1670y5r&rid=giphy.gif&ct=g" />
 </div>
 
 ---
