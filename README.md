@@ -25,9 +25,6 @@
 * aleksei's chat room - [code][messageboard github]
 * wizards only (private message board) [code][wizardsonly github]
 
-#### project directories:
-* [codewars][codewars directory]
-
 ---
 
 ### To-dos  🪴
@@ -36,17 +33,11 @@
 - [ ] Deploy personal website
 - [ ] Add ReadMe.mds to all / desired projects
 
-#### Completed  🌿
-- [x] Upload js codewars katas
-- [x] Upload rust codewars katas
-
 [projects reference]: https://github.com/alecmoschetti#project-directory
 [skills]: https://github.com/alecmoschetti#skills
 [todos]: https://github.com/alecmoschetti#to-dos--
 [userguide]: https://github.com/alecmoschetti#user-guide
 [repositories]: https://github.com/alecmoschetti?tab=repositories
-
-[codewars directory]: https://github.com/alecmoschetti/codewars
 
 [daykeeper github]: https://github.com/alecmoschetti/daykeeper
 [daykeeper live]: https://alecmoschetti.github.io/daykeeper/
