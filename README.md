@@ -6,7 +6,6 @@
 
 ---
 
-* [demos][demos]
 * [repositories][repositories]
 
 ---
